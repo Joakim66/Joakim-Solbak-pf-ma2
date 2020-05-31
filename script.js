@@ -34,13 +34,13 @@ var catArray = [catObject];
 
 for(var i = 0; i < catArray.length; i++){
   console.log(catArray);
-}
+};
 
 // question 9
 
 var logToConsole = function(parameter1){
   console.log(parameter1);
-}
+};
 
 // question 10
 
