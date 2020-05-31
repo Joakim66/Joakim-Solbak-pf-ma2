@@ -45,3 +45,4 @@ var logToConsole = function(parameter1){
 // question 10
 
 logToConsole("donkey");
+
